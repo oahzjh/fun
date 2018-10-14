@@ -1,5 +1,10 @@
 # Hex (Personalized binary file editor)
 
+## Basic stuff
+- mirror xxd print (Except also represent space as '.')
+- less style print
+
+## Advanced feature
 - Pattern searching
 - Fast editing
 - Handle large files
